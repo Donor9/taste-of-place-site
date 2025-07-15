@@ -52,6 +52,11 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Custom cafe colors
+				'warm-cream': 'hsl(var(--warm-cream))',
+				'coffee-brown': 'hsl(var(--coffee-brown))',
+				'golden-accent': 'hsl(var(--golden-accent))',
+				'soft-beige': 'hsl(var(--soft-beige))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
